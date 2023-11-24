@@ -1,0 +1,4 @@
+Nombre del Paciente: Wilfredo Portillo
+Fecha de Cita: 21/12/1987 00:00:00
+Razón de Consulta: Chequeo General
+Costo de Consulta: 55

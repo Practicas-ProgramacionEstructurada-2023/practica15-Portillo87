@@ -1,0 +1,4 @@
+Nombre del Paciente: Alessandra Portillo
+Fecha de Cita: 6/10/2019 00:00:00
+Razón de Consulta: Chequeo de rutina
+Costo de Consulta: 35
